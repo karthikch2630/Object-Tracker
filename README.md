@@ -34,11 +34,9 @@ This project uses **YOLOv8** and **DeepSORT** to perform real-time object detect
 ### 🔹 Home UI
 ![Home](assets/ui_home.png)
 
-### 🔹 Upload & Process Video
-![Upload](assets/upload_video.png)
+### 🔹 Detecting & Tracking 
+![Upload](assets/live-tracking.png)
 
-### 🔹 Detection Output
-![Detection](assets/detection_output.png)
 
 ---
 
