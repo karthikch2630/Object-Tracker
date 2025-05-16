@@ -1,0 +1,29 @@
+# Ignore uploaded and processed video files
+uploads/*
+outputs/*
+
+# But keep the directories themselves (optional)
+!uploads/.gitkeep
+!outputs/.gitkeep
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# OS / Editor files
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log

@@ -20,7 +20,10 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # Streamlit app title
+
 st.title("Real-Time Object Detection & Tracking System")
+
+
 
 # Sidebar options
 st.sidebar.title("Options")
