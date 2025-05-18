@@ -1,4 +1,6 @@
 streamlit
-opencv-python-headless
-ultralytics
-deep_sort_realtime
+opencv-python
+torch
+torchvision
+numpy
+Pillow
